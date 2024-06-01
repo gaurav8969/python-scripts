@@ -2,5 +2,5 @@
 scripts
 ```mermaid
 flowchart LR
-    Scripts-->Easy
+    a[Python Scripts] --> b[Easy Life]
 ```
