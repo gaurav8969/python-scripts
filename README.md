@@ -1,10 +1,6 @@
 # python-scripts
 scripts
 ```mermaid
-sequenceDiagram
-    participant Python Scripts
-    participant Easy Life
-
+flowchart LR
     Python Scripts->>Easy Life: Laziness
-    deactivate Easy Life
 ```
