@@ -6,7 +6,6 @@ sequenceDiagram
     participant Easy Life
 
     Python Scripts->>Easy Life: Laziness
-    activate server
-    server-->>browser: the JavaScript file
-    deactivate server
+    activate Easy Life
+    deactivate Easy Life
 ```
