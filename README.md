@@ -6,5 +6,5 @@ sequenceDiagram
     participant Easy Life
 
     Python Scripts->>Easy Life: Laziness
-    
+    deactivate Easy Life
 ```
